@@ -10,5 +10,5 @@ So far, I've been able to complete the following:
 - [x] First Assignment
 - [ ] Second Assignment
 
-In 12 weeks, I'm going to be a Front End Engineer! :boom:
+In 12 weeks, I'm going to be a Front End Engineer! :boom: :boom: :boom:
 
